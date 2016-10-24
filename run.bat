@@ -1,0 +1,1 @@
+java -cp .;slick.jar;lwjgl.jar;lwjgl_util.jar;lwjgl_test.jar -Djava.library.path="." Tester
